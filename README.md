@@ -1,2 +1,9 @@
-# Savage-demo
-This is a fun APP that allows friends to be able to connect with each other via the message board.
+# SAVAGE DEMO
+This is a platform for friends/family and groups to be able to connect with one another on the message board.
+
+
+![alt tag](savageDEMO.png)
+
+
+
+**Tech used:** HTML, CSS, JavaScript

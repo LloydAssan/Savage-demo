@@ -2,7 +2,7 @@
 This is a platform for friends/family and groups to be able to connect with one another on the message board.
 
 
-![alt tag](savageDEMO.png)
+![alt tag](savageDemo.png)
 
 
 
